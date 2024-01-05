@@ -1,1 +1,1 @@
-# Materials
+# Materials of the DS course at SUT
