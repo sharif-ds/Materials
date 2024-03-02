@@ -6,19 +6,25 @@ This repository contains educational materials, assignments, and exams for the D
 
 The repository is organized as follows:
 
-- **Fall 2023 - Dr. Abam & Dr. Bahrami**
-  - **Assignments**
+The content is structured as detailed below:
+
+- **Assignments**
+  - **Fall 2023 - Instructed by Dr. Abam & Dr. Bahrami**
     - **Practical**
     - **Theory**
-      - **Docs**
-      - **Latex**
-  - **Exams**
-    - **Docs**
-    - **Latex**
-  - **Slides**
-  - **Source**
+  - **Spring 2024 - Instructed by Dr. Abam & Dr. Kazemi**
 
-- **Spring 2024 - Dr. Abam & Dr. Kazemi**
+- **Exams**
+  - **Fall 2023 - Instructed by Dr. Abam & Dr. Bahrami**
+  - **Spring 2024 - Instructed by Dr. Abam & Dr. Kazemi**
+
+- **Slides**
+  - **Fall 2023 - Instructed by Dr. Abam & Dr. Bahrami**
+    - **Practical**
+    - **Theory**
+  - **Spring 2024 - Instructed by Dr. Abam & Dr. Kazemi**
+
+- **Source**
 
 ## Contents
 
