@@ -1,4 +1,4 @@
-# Materials of the Data Structures and Algorithms course at the Sharif University of Technology
+# Materials of the [DS](https://docs.ce.sharif.edu/course/40254) course at the [SUT](https://en.sharif.edu)
 
 This repository contains educational materials, assignments, and exams for the Data Structures and Algorithms course at the Sharif University of Technology.
 
@@ -39,4 +39,4 @@ While this repository is primarily managed by the course instructors, contributi
 
 ## Contact
 
-For any inquiries or issues, please contact [abam@sharif.edu].
+For any inquiries or issues, please contact [Dr. Abam](mailto:abam@sharif.edu).
