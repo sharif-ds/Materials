@@ -1,0 +1,28 @@
+% Course Programming Style
+% By: Hamid Zarrabi-Zadeh
+% Licenced Under GPL
+
+
+% ---------------------------------------- sample input/output --------------------------
+
+\def\s@tm@cr@s{%
+\def\widthin##1{\exmpwidinf=##1\relax}\def\widthout##1{\exmpwidouf=##1\relax}%
+\def\stretchin##1{\advance\exmpwidinf by ##1\relax}%
+\def\stretchout##1{\advance\exmpwidouf by ##1\relax}%
+%\def\testst@r{\@ifstar{{\tt [*] is deprected, you need not use it any more}}{}}%
+}%
+
+\newenvironment{example}[1][]{%
+\s@tm@cr@s\ttfamily\obeylines\obeyspaces\frenchspacing%\testst@r#1%
+\newcommand{\exmp}[2]{%
+\begin{minipage}[t]{7.4cm}\rightskip=0pt plus 1fill\relax##1\medskip\end{minipage}&%
+\begin{minipage}[t]{7.4cm}\rightskip=0pt plus 1fill\relax##2\medskip\end{minipage}\\%
+\hline}%
+\begin{tabular}{|l|l|}
+\hline
+\multicolumn{1}{|c|}{\bf\rl{ورودی نمونه }}&%
+\multicolumn{1}{|c|}{\bf\rl{خروجی نمونه}}\\%
+\hline
+}
+{\end{tabular}}
+
